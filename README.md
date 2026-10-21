@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./header.png" width="100%" alt="Akash Holsambre — AKASH.EXE, Full-Stack Developer and Web Engineering" />
+<img src="./header1.png" width="100%" alt="Akash Holsambre — AKASH.EXE, Full-Stack Developer and Web Engineering" />
 
 <br>
 
