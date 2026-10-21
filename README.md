@@ -1,71 +1,99 @@
 <div align="center">
 
-# AKASH HOLSAMBRE
+<pre>
+AKASH@ENGINEERING
+────────────────────────────────────
+AKASH HOLSAMBRE
+FULL-STACK DEVELOPER · WEB ENGINEERING
+</pre>
 
-**FULL-STACK SOFTWARE DEVELOPMENT · WEB ENGINEERING**
+<p><strong>Building from interface to API, database, and deployment.</strong></p>
 
-Building practical web applications, exploring system design, and refining the details that make software reliable.
+<code>STATUS: BUILDING · LEARNING · ITERATING</code>
+
+<br><br>
+
+<a href="https://github.com/Beast18akash">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/akash-holsambre-202279319/">LinkedIn</a>
 
 </div>
 
 ---
 
+## `01 / SYSTEM STACK`
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,react,html,css,tailwind,nodejs,express,mongodb,postgres,mysql,git,github,postman,vercel" alt="Technologies used across languages, frontend, backend, databases, and developer workflow" />
+</div>
+
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### `01 / CORE`
-
-**Languages**
-<br>JavaScript · TypeScript · Java
-
-**Frontend**
-<br>React · HTML · CSS · Tailwind CSS
-
-**Backend**
-<br>Node.js · Express.js · REST APIs
-
-**Data**
-<br>MongoDB · PostgreSQL · MySQL
-
-</td>
-<td width="50%" valign="top">
-
-### `02 / ENGINEERING`
-
-**Application design**
-<br>Authentication · API design · Database modelling
-
-**Developer workflow**
-<br>Git · GitHub · Postman
-
-**Delivery**
-<br>Vercel · Render
-
-**Focus**
-<br>Readable code · Reliable behaviour · Performance
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>◈ LANGUAGES</strong><br><br>
+      JavaScript · TypeScript · Java
+    </td>
+    <td width="34%" valign="top">
+      <strong>◈ FRONTEND</strong><br><br>
+      React · HTML · CSS · Tailwind CSS
+    </td>
+    <td width="33%" valign="top">
+      <strong>◈ BACKEND</strong><br><br>
+      Node.js · Express.js · REST APIs
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>◈ DATA</strong><br><br>
+      MongoDB · PostgreSQL · MySQL
+    </td>
+    <td width="34%" valign="top">
+      <strong>◈ WORKFLOW</strong><br><br>
+      Git · GitHub · Postman
+    </td>
+    <td width="33%" valign="top">
+      <strong>◈ DEPLOYMENT</strong><br><br>
+      Vercel · Render
+    </td>
+  </tr>
 </table>
 
-### `03 / SYSTEM MAP`
+---
+
+## `02 / ENGINEERING MINDSET`
+
+| PRINCIPLE | HOW I APPROACH IT |
+|:--|:--|
+| **Understand first** | Break down the problem before choosing an implementation. |
+| **Clear boundaries** | Keep components, API routes, and data responsibilities understandable. |
+| **Data integrity** | Validate input and protect correctness at application boundaries. |
+| **Predictable behavior** | Handle errors deliberately and make failure states clear. |
+| **Performance with purpose** | Measure bottlenecks before optimizing. |
+| **Continuous iteration** | Build, test, review, and improve instead of stopping at “it works.” |
+
+---
+
+## `03 / SYSTEM MAP`
 
 <p align="center">
- <img src="./map.webp" alt="Engineering system map connecting frontend, backend, databases, and deployment tools" width="100%">
+  <img src="./map.webp" alt="Engineering map connecting frontend interfaces, backend services, data persistence, engineering quality, and deployment" width="100%">
 </p>
 
-### `04 / EXPLORING`
+---
 
-`Docker` · `Prisma` · `GitHub Actions` · `Azure` · `GSAP` · `Motion` · `Three.js`
+## `04 / CURRENTLY EXPLORING`
 
-Currently expanding my skills in containerization, automated testing, cloud infrastructure, and interactive web experiences.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,azure,prisma,githubactions,threejs" alt="Technologies currently being explored" />
+  <br><br>
+  <code>Prisma</code> &nbsp; <code>Docker</code> &nbsp; <code>Azure</code> &nbsp; <code>GitHub Actions</code> &nbsp; <code>GSAP</code> &nbsp; <code>Motion</code> &nbsp; <code>Three.js</code>
+</div>
+
+Currently expanding my toolkit across database tooling, containers, cloud infrastructure, automation, and motion-rich web experiences.
 
 ---
 
 <div align="center">
-
-[GitHub](https://github.com/Beast18akash) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/)
 
 <sub>DESIGNING · BUILDING · ITERATING</sub>
 
