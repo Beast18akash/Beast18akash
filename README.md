@@ -52,7 +52,7 @@ Building practical web applications, exploring system design, and refining the d
 ### `03 / SYSTEM MAP`
 
 <p align="center">
-  <img src="./assets/engineering-map.webp" alt="A map connecting frontend interfaces, backend services, data stores, and delivery tools" width="100%">
+ <img src="./map.webp" alt="Engineering system map connecting frontend, backend, databases, and deployment tools" width="100%">
 </p>
 
 ### `04 / EXPLORING`
